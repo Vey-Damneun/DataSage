@@ -1,1 +1,17 @@
-
+title: Your Portfolio Title
+logo: /assets/img/headshot_cirle.png
+description: A portfolio showcasing my work in data science and machine learning.
+show_downloads: true
+#show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+#theme: jekyll-theme-cayman.gemspec
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+social:
+  - title: GitHub
+    url: github.com/Vey27?tab=repositories /Vey27
+  - title: LinkedIn
+    url: https://linkedin.com/in/vey-d-20b27a119/in/Vey Damneun
+  - title: datascienceportfol
+    url: https://www.datascienceportfol.io/Vey
