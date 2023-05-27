@@ -16,9 +16,9 @@
     <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60">
   </a>
   <a href="https://github.com/Vey27" style="text-decoration: none; border: 1px solid black; padding: 5px;">
-    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="80">
+    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="60">
   </a>
   <a href="https://powertofly.com/talents/veyd" style="text-decoration: none; border: 1px solid black; padding: 5px;">
-    <img src="./assets/powertofly.png" alt="Power to Fly" width="80">
+    <img src="./assets/powertofly.png" alt="Power to Fly" width="60">
   </a>
 </div>
