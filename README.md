@@ -1,5 +1,5 @@
-# DataSage
-
+# Vey Damneun
+## Data Science & Machine Learning
 <div style="position: relative;">
   <img src="./assets/vey5.JPG" alt="Vey Damneun" width="80" height="100" align="left">
 </div>
