@@ -12,9 +12,19 @@
 
 [Contact Me](https://www.cognitoforms.com/CodeFarms1/CONTACTME) 💬
 
-[<img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60">](linkedin.com/in/vey-d-20b27a119) &nbsp;&nbsp;
-[<img src="./assets/powertofly-logo.webp.png" alt="Power to Fly" width="60">](https://powertofly.com/talents/veyd) &nbsp;&nbsp;
-[<img src="./assets/GitHub-Logo.png" alt="GitHub" width="60">](https://github.com/Vey27)
+<div style="display: flex; justify-content: center;">
+  <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none; margin: 10px;">
+    <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60" style="border: 1px solid black; padding: 5px;">
+  </a>
+  <a href="https://github.com/Vey27" style="text-decoration: none; margin: 10px;">
+    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="80" style="border: 1px solid black; padding: 5px;">
+  </a>
+  <a href="https://powertofly.com/talents/veyd" style="text-decoration: none; margin: 10px;">
+    <img src="./assets/powertofly.png" alt="Power to Fly" width="80" style="border: 1px solid black; padding: 5px;">
+  </a>
+</div>
+
+
 
 
 
