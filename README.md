@@ -13,17 +13,18 @@
 
 
 
-<div style="display: flex; justify-content: center;">
-  <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none; margin: 10px;">
-    <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60" style="border: 1px solid black; padding: 5px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none; border: 1px solid black; padding: 5px;">
+    <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60">
   </a>
-  <a href="https://github.com/Vey27" style="text-decoration: none; margin: 10px;">
-    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="80" style="border: 1px solid black; padding: 5px;">
+  <a href="https://github.com/Vey27" style="text-decoration: none; border: 1px solid black; padding: 5px;">
+    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="80">
   </a>
-  <a href="https://powertofly.com/talents/veyd" style="text-decoration: none; margin: 10px;">
-    <img src="./assets/powertofly.png" alt="Power to Fly" width="80" style="border: 1px solid black; padding: 5px;">
+  <a href="https://powertofly.com/talents/veyd" style="text-decoration: none; border: 1px solid black; padding: 5px;">
+    <img src="./assets/powertofly.png" alt="Power to Fly" width="80">
   </a>
 </div>
+
 
 
 
