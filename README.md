@@ -14,20 +14,18 @@
 | [Python Projects](https://www.datascienceportfol.io/Vey) | [Tableau Dashboards](https://public.tableau.com/app/profile/vey.damneun5377) | Resume Dashboard |
 
 <br>
-<br>
-
 <div style="display: flex; justify-content: center;">
   <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none;">
     <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60">
   </a>
   
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   
   <a href="https://github.com/Vey27" style="text-decoration: none;">
-    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="80">
+    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="60">
   </a>
   
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   
   <a href="https://powertofly.com/talents/veyd" style="text-decoration: none;">
     <img src="./assets/powertofly.png" alt="Power to Fly" width="80">
