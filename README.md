@@ -36,11 +36,6 @@
     <img src="./assets/GitHub-Logo.png" alt="GitHub" width="60">
   </a>
   
-  &nbsp;&nbsp;
-  
-  <a href="https://powertofly.com/talents/veyd" style="text-decoration: none;">
-    <img src="./assets/powertofly.png" alt="Power to Fly" width="80">
-  </a>
-</div>
+  </div>
 
 
