@@ -1,7 +1,6 @@
 # DataSage
 <div style="position: relative;">
-  <img src="./assets/vey5.JPG" alt="Vey Damneun" width="99" height="100" align="left">
-  <p style="position: absolute; top: 0; left: 0; margin: 0; padding: 10px; color: white; font-weight: bold;">Vey Damneun</p>
+  <img src="./assets/vey5.JPG" alt="Vey Damneun" width="80" height="100" align="left">
 </div>
 
 
