@@ -11,8 +11,6 @@
 |-----------------|------------------|---|
 | [Python Projects](https://www.datascienceportfol.io/Vey) | [Tableau Dashboard](https://public.tableau.com/app/profile/vey.damneun5377) | Resume Dashboard |
 
-
-
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none; border: 1px solid black; padding: 5px;">
     <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60">
@@ -24,9 +22,3 @@
     <img src="./assets/powertofly.png" alt="Power to Fly" width="80">
   </a>
 </div>
-
-
-
-
-
-
