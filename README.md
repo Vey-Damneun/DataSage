@@ -1,5 +1,4 @@
-# Vey Damneun
-## Data Science & Machine Learning
+# Data Science & Machine Learning 📊🤖
 [Contact Me](https://www.cognitoforms.com/CodeFarms1/CONTACTME) 💬
 
 <div style="position: relative;">
