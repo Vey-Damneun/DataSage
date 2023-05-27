@@ -5,7 +5,7 @@ Welcome to my portfolio page! Here, you will find a collection of my projects fr
 
 | AI & Machine Learning | Tableau| 
 |-----------------|------------------|
-| [Python Projects](https://www.datascienceportfol.io/Vey) | [Dashboard](https://public.tableau.com/app/profile/vey.damneun5377) |  |
+| [Python Projects](https://www.datascienceportfol.io/Vey) | [Dashboards](https://public.tableau.com/app/profile/vey.damneun5377) |  |
 
 
  
