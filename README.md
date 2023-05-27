@@ -10,3 +10,8 @@ Welcome to my portfolio page! Here, you will find a collection of my projects fr
 | [Python Projects](https://www.datascienceportfol.io/Vey) | [Tableau Dashboard](https://public.tableau.com/app/profile/vey.damneun5377) | Resume Dashboard |
 
 
+# Contact Me
+<div style="position: relative;">
+  <img src="./assets/qrcode_www.cognitoforms.com.png" alt="Vey Damneun" width="250" height="250" align="left">
+    </div>
+  
