@@ -1,6 +1,7 @@
 # Vey Damneun
 ## Data Science & Machine Learning
 [Contact Me](https://www.cognitoforms.com/CodeFarms1/CONTACTME) 💬
+
 <div style="position: relative;">
   <img src="./assets/vey5.JPG" alt="Vey Damneun" width="80" height="100" align="left">
 </div>
@@ -11,14 +12,21 @@
 |-----------------|------------------|---|
 | [Python Projects](https://www.datascienceportfol.io/Vey) | [Tableau Dashboard](https://public.tableau.com/app/profile/vey.damneun5377) | Resume Dashboard |
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none; border: 1px solid black; padding: 5px;">
-    <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60">
-  </a>
-  <a href="https://github.com/Vey27" style="text-decoration: none; border: 1px solid black; padding: 5px;">
-    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="60">
-  </a>
-  <a href="https://powertofly.com/talents/veyd" style="text-decoration: none; border: 1px solid black; padding: 5px;">
-    <img src="./assets/powertofly.png" alt="Power to Fly" width="60">
-  </a>
-</div>
+<br>
+
+<a href="linkedin.com/in/vey-d-20b27a119">
+  <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60">
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Vey27">
+  <img src="./assets/GitHub-Logo.png" alt="GitHub" width="80">
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://powertofly.com/talents/veyd">
+  <img src="./assets/powertofly.png" alt="Power to Fly" width="80">
+</a>
+
