@@ -16,7 +16,7 @@
         <td><a href="https://www.datascienceportfol.io/Vey" onclick="window.open(this.href,'_blank');return false;">Python Projects</a></td>
         <td><a href="https://public.tableau.com/app/profile/vey.damneun5377" onclick="window.open(this.href,'_blank');return false;">Tableau Dashboard</a>
   </table>
-</body>
+
 
 
 
