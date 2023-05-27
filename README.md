@@ -22,18 +22,16 @@
     </tr>
   </table>
 </div>
-
-
 <br>
 <div style="display: flex; justify-content: center;">
   <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none;">
-    <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60">
+    <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="80">
   </a>
   
   &nbsp;&nbsp;
   
   <a href="https://github.com/Vey27" style="text-decoration: none;">
-    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="60">
+    <img src="./assets/GitHub-Logo.png" alt="GitHub" width="80">
   </a>
   
   </div>
