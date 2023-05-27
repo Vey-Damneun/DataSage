@@ -1,5 +1,6 @@
 # Vey Damneun
 ## Data Science & Machine Learning
+[Contact Me](https://www.cognitoforms.com/CodeFarms1/CONTACTME) 💬
 <div style="position: relative;">
   <img src="./assets/vey5.JPG" alt="Vey Damneun" width="80" height="100" align="left">
 </div>
@@ -10,7 +11,7 @@
 |-----------------|------------------|---|
 | [Python Projects](https://www.datascienceportfol.io/Vey) | [Tableau Dashboard](https://public.tableau.com/app/profile/vey.damneun5377) | Resume Dashboard |
 
-[Contact Me](https://www.cognitoforms.com/CodeFarms1/CONTACTME) 💬
+
 
 <div style="display: flex; justify-content: center;">
   <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none; margin: 10px;">
