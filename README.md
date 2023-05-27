@@ -9,15 +9,16 @@
   <table>
     <thead>
       <tr>
-        <th>Name</th>
-        <th>Age</th>
-        <th>Country</th>
+        <th>Python</th>
+        <th>Tableau</th>
+        <th>R</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>John</td>
-        <td>25</td>
+        <td>Breast Cancer</td>
+        <td>Dashboard</td>
+        <td>R</td>
         <td>
           <select>
             <option value="USA">USA</option>
