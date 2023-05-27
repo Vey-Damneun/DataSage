@@ -18,13 +18,13 @@
   <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="60">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Vey27">
   <img src="./assets/GitHub-Logo.png" alt="GitHub" width="80">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://powertofly.com/talents/veyd">
   <img src="./assets/powertofly.png" alt="Power to Fly" width="80">
