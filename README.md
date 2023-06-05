@@ -37,8 +37,8 @@
       <tr>
         <th>Gradio </th>
       <tr>
-      <td><a href="https://veyvey-covidsentiment.hf.space">Covid Sentiment Analysis</a></td><br>
-      <td><a href="https://veyvey-test.hf.space">Language Translator</a></td><br>
+      <td><a href="https://veyvey-covidsentiment.hf.space">Covid Sentiment Analysis</a></td>
+      <td><a href="https://veyvey-test.hf.space">Language Translator</a></td>
       <td><a href="https://veyvey-predict-weather.hf.space">Tomorrow's Weather Prediction</a></td>
       </tr>
     </table>
