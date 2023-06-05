@@ -11,10 +11,10 @@
 
 <body>
 
-
   <div class="container">
-      <h1>Credentials and Achievements</h1>
+
     <table>
+            <h1>Credentials and Achievements</h1>
       <tr>
         <th>AI & Machine Learning</th>
         <th>Tableau</th>
