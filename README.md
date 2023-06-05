@@ -30,7 +30,7 @@
   </div>
    <H1>
      Gradio Application
-  <h1>
+  </h1>
 <br>
    <tr>
         <td><a href="https://veyvey-covidsentiment.hf.space">Covid Sentiment Analysis</a></td>
