@@ -30,12 +30,20 @@
 <br>
    <tr>
       <H2>
-     Gradio Application
+     Applications
   </h2>
-    <td><a href="https://veyvey-covidsentiment.hf.space">Covid Sentiment Analysis</a></td><br>
-    <td><a href="https://veyvey-test.hf.space">Language Translator</a></td><br>
-    <td><a href="https://veyvey-predict-weather.hf.space">Tomorrow's Weather Prediction</a></td>
-    </tr>
+      <div class="container">
+    <table>
+      <tr>
+        <th>Gradio </th>
+      </tr>
+      <tr>
+      <td><a href="https://veyvey-covidsentiment.hf.space">Covid Sentiment Analysis</a></td><br>
+      <td><a href="https://veyvey-test.hf.space">Language Translator</a></td><br>
+      <td><a href="https://veyvey-predict-weather.hf.space">Tomorrow's Weather Prediction</a></td>
+      </tr>
+    </table>
+  </div>
 </body>
 <br>
 <br>
