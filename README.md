@@ -22,7 +22,6 @@
       <td><a href="https://public.tableau.com/app/profile/vey.damneun5377">Tableau Dashboards</a></td>
       <td>Resume Dashboard</td>
       <td><a href="https://1drv.ms/p/s!AoRrTjl22F1v1nYRxLll91049LYl?e=LWlERV">Certificates</a></td>
-
     </tr>
   </table>
 </div>
