@@ -28,6 +28,11 @@
       </tr>
     </table>
   </div>
+    ## Gradio Application
+
+{% raw %}
+<iframe src="https://veyvey-covidsentiment.hf.space" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+{% endraw %}
 </body>
 <br>
 <div style="display: flex; justify-content: left;">
