@@ -33,6 +33,7 @@
      Gradio Application
   </h2>
     <td><a href="https://veyvey-covidsentiment.hf.space">Covid Sentiment Analysis</a></td>
+    <td><a href="https://veyvey-test.hf.space">Language Translator</a></td>
     </tr>
 </body>
 <br>
