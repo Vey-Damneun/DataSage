@@ -27,7 +27,6 @@
       </tr>
     </table>
   </div>
-  
 <br>
    <tr>
       <H1>
@@ -40,7 +39,7 @@
 </body>
 <br>
 <br>
-<div style="display: flex; justify-content: center;">
+<<div align="center">
   <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none;">
     <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="80">
   </a>
