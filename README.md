@@ -10,7 +10,7 @@
 <br>
 
 <body>
-  <h1>GitHub Page</h1>
+  <h1>Credentials and Achievements</h1>
 
   <div class="container">
     <table>
