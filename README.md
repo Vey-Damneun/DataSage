@@ -29,9 +29,13 @@
     </table>
   </div>
     ## Gradio Application
-<tr>
-<iframe src="https://veyvey-covidsentiment.hf.space" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
-</tr>
+<div align="center">
+
+   <tr>
+        <td><a href="https://huggingface.co/spaces/VeyVey/CovidSentiment">Covid Sentiment Analysis</a></td>
+    </tr>
+</div>
+
 </body>
 <br>
 <div style="display: flex; justify-content: left;">
