@@ -15,3 +15,8 @@ social:
     url: https://linkedin.com/in/vey-d-20b27a119/in/Vey Damneun
   - title: datascienceportfol
     url: https://www.datascienceportfol.io/Vey
+## Gradio Application
+
+{% raw %}
+<iframe src="https://veyvey-covidsentiment.hf.space" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+{% endraw %}
