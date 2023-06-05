@@ -28,10 +28,10 @@
       </tr>
     </table>
   </div>
-   <th>
+   <H1>
      Gradio Application
-  </th>
-
+  <h1>
+<br>
    <tr>
         <td><a href="https://veyvey-covidsentiment.hf.space">Covid Sentiment Analysis</a></td>
     </tr>
