@@ -10,6 +10,7 @@
 <br>
 
 <body>
+  <tr>
        <h2>Credentials and Achievements</h2>
   <div class="container">
     <table>
