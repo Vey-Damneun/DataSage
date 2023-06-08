@@ -8,23 +8,22 @@
 
 👋 Welcome to my portfolio page! Here, you will find a collection of my projects from an AI and Machine Learning bootcamp, as well as other notable works encompassing Tableau and Resume dashboard. If you're interested in exploring additional Python projects, feel free to visit my GitHub repository at [https://github.com/Vey27](https://github.com/Vey27). There, you'll find a comprehensive showcase of my coding expertise and the innovative solutions I've developed. Take a look and delve into the exciting world of data science and machine learning! 🚀
 <br>
-
-<h2>Credentials and Achievements</h2>
-
+<h2>🏆 Credentials and Achievements</h2>
 <table>
   <tr>
-    <th>AI & Machine Learning</th>
-    <th>Tableau</th>
-    <th>Resume</th>
-    <th>Certificates</th>
+    <th>🤖 AI & Machine Learning</th>
+    <th>📊 Tableau</th>
+    <th>📄 Resume</th>
+    <th>📜 Certificates</th>
   </tr>
   <tr>
-    <td><a href="https://www.datascienceportfol.io/Vey">Explore My Python Projects</a></td>
-    <td><a href="https://public.tableau.com/app/profile/vey.damneun5377">Check Out My Tableau Dashboards</a></td>
-    <td>View My Resume Dashboard</td>
-    <td><a href="https://1drv.ms/p/s!AoRrTjl22F1v1nbIsL1s_0MZsimT?e=H1DgwS">Browse Certificates</a></td>
+    <td><a href="https://www.datascienceportfol.io/Vey">🐍 Python Projects</a></td>
+    <td><a href="https://public.tableau.com/app/profile/vey.damneun5377">📊 Tableau Dashboards</a></td>
+    <td>📄 Resume Dashboard</td>
+    <td><a href="https://1drv.ms/p/s!AoRrTjl22F1v1nbIsL1s_0MZsimT?e=H1DgwS">📜 Certificates</a></td>
   </tr>
 </table>
+<br>
 
 <br>
 <br>
