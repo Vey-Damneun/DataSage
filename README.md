@@ -25,8 +25,8 @@
         <td><a href="https://public.tableau.com/app/profile/vey.damneun5377">Tableau Dashboards</a></td>
         <td>Resume Dashboard</td>
         <td><a href="https://1drv.ms/p/s!AoRrTjl22F1v1nbIsL1s_0MZsimT?e=H1DgwS">Certificates</a></td>
-      </tr>
       </div>
+      </tr>
     </table>
 <br>
      <H2>Applications</h2>
@@ -39,8 +39,8 @@
       <td><a href="https://veyvey-covidsentiment.hf.space">Covid Sentiment Analysis</a></td>
       <td><a href="https://veyvey-test.hf.space">Language Translator</a></td>
       <td><a href="https://veyvey-predict-weather.hf.space">Tomorrow's Weather Prediction</a></td>
-      </tr>
       </div>
+      </tr>
     </table>
 </body>
 <br>
