@@ -28,7 +28,6 @@
       </div>
     </table>
 <br>
-   <tr>
      <H2>Applications</h2>
       <div class="container">
     <table>
