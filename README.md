@@ -25,8 +25,9 @@
         <td>Resume Dashboard</td>
         <td><a href="https://1drv.ms/p/s!AoRrTjl22F1v1nbIsL1s_0MZsimT?e=H1DgwS">Certificates</a></td>
       </tr>
+      </div>
     </table>
-  </div>
+  
 <br>
    <tr>
       <H2>
