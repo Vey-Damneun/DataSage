@@ -38,7 +38,7 @@
       <td><a href="https://veyvey-predict-weather.hf.space">Tomorrow's Weather Prediction</a></td>
       </tr>
     </table>
-</body>
+
 <br>
 <br>
 <div align="center">
@@ -53,4 +53,4 @@
   
   </div>
 
-
+</body>
