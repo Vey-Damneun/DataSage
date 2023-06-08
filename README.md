@@ -11,7 +11,7 @@
 
   <tr>
        <h2>Credentials and Achievements</h2>
-       <table class="center">
+       <table">
       <tr>
         <th>AI & Machine Learning</th>
         <th>Tableau</th>
@@ -27,7 +27,7 @@
     </table>
 <br>
 <H2>Applications</h2>
-<table ="width:100%">
+<table>
       <tr>
         <th>Gradio </th>
       </tr>
@@ -37,7 +37,6 @@
       <td><a href="https://veyvey-predict-weather.hf.space">Tomorrow's Weather Prediction</a></td>
       </tr>
     </table>
-
 <br>
 <br>
 <div align="center">
