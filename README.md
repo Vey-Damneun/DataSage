@@ -12,8 +12,7 @@
 <body>
   <tr>
        <h2>Credentials and Achievements</h2>
-  <div class="container">
-    <table>
+       <table style="width:100%">
       <tr>
         <th>AI & Machine Learning</th>
         <th>Tableau</th>
