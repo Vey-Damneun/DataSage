@@ -19,7 +19,7 @@
   <tr>
     <td><a href="https://www.datascienceportfol.io/Vey">Python Projects</a></td>
     <td><a href="https://public.tableau.com/app/profile/vey.damneun5377">Tableau Dashboards</a></td>
-    <td>📄 Resume Dashboard</td>
+    <td> Resume Dashboard</td>
     <td><a href="https://1drv.ms/p/s!AoRrTjl22F1v1nbIsL1s_0MZsimT?e=H1DgwS">Certificates</a></td>
   </tr>
 </table>
