@@ -27,12 +27,9 @@
       </tr>
       </div>
     </table>
-  
 <br>
    <tr>
-      <H2>
-     Applications
-  </h2>
+     <H2>Applications</h2>
       <div class="container">
     <table>
       <tr>
@@ -42,8 +39,8 @@
       <td><a href="https://veyvey-test.hf.space">Language Translator</a></td>
       <td><a href="https://veyvey-predict-weather.hf.space">Tomorrow's Weather Prediction</a></td>
       </tr>
+      </div>
     </table>
-  </div>
 </body>
 <br>
 <br>
