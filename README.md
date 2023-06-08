@@ -12,7 +12,7 @@
 <body>
   <tr>
        <h2>Credentials and Achievements</h2>
-       <table style="width:100%">
+       <table class="center">
       <tr>
         <th>AI & Machine Learning</th>
         <th>Tableau</th>
@@ -28,7 +28,7 @@
     </table>
 <br>
 <H2>Applications</h2>
-<table style="width:100%">
+<table ="width:100%">
       <tr>
         <th>Gradio </th>
       </tr>
