@@ -29,9 +29,8 @@
       </tr>
     </table>
 <br>
-     <H2>Applications</h2>
-      <div class="container">
-    <table>
+<H2>Applications</h2>
+<table style="width:100%">
       <tr>
         <th>Gradio </th>
       </tr>
