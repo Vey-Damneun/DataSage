@@ -40,6 +40,19 @@
 
 <br>
 <br>
+<h2>Business
+Analytics</h2>
+<table>
+  <tr>
+    <th>Three Types of Analytics/th>
+  </tr>
+  <tr>
+    <td><a href="[https://veyvey-test.hf.space"](https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=OS6jxa)>Three Types of Analytics</a></td>
+  </tr>
+</table>
+
+<br>
+<br>
 <div align="center">
   <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none;">
     <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="80">
