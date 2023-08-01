@@ -43,14 +43,17 @@
 <table>
   <tr>
     <td>📈 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
-     <td>📉 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td>
-     <td>📉 <a href="">Predicting Electric Vehicle Adoption Rates</a></td>
-      <td>📉 <a href="">COVID-19 Impact Analysis</a></td>
-     <td>📉 <a href="">Job Market Analysis</a></td>
+     <td>📉 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td> 
   </tr>
 </table>
 <br>
-
+<br>
+<h3>📊Real-World problems </h3>
+    <td>📉 <a href="">Predicting Electric Vehicle Adoption Rates</a></td>
+      <td>📉 <a href="">COVID-19 Impact Analysis</a></td>
+       <td>📉 <a href="">Job Market Analysis</a></td>
+      <td>📉 <a href="">E-commerce Shopping Pattern Analysis</a></td>
+       <td>📉 <a href="">Analyzing and Predicting Energy Consumption</a></td>
 <br>
 <div align="center">
   <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none;">
