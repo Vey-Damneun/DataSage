@@ -45,6 +45,8 @@
     <td>📈 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
      <td>📉 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td>
      <td>📉 <a href="">Predicting Electric Vehicle Adoption Rates</a></td>
+      <td>📉 <a href="">COVID-19 Impact Analysis</a></td>
+     <td>📉 <a href="">Job Market Analysis</a></td>
   </tr>
 </table>
 <br>
