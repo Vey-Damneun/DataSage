@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td>📈 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
-     <td>📉 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=j9jKj3">Data in Analytics</a></td>
+     <td>📉 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td>
   </tr>
 </table>
 <br>
