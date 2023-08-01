@@ -38,15 +38,13 @@
   </tr>
 </table>
 <br>
+<br>
 <h2>📊 Business Analytics</h2>
 <table>
   <tr>
-    <td><a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD"><img src="https://i.imgur.com/yourimage.jpg" alt="Three Types of Analytics"></a></td>
+    <td><a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD"><img src="https://1drv.ms/i/s!AoRrTjl22F1v2HmPlWQDPXd_i4xu?e=tFH26z" alt="Three Types of Analytics"></a></td>
   </tr>
 </table>
-
-
-<br>
 <br>
 
 <br>
