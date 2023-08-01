@@ -47,17 +47,19 @@
   </tr>
 </table>
 <br>
+
 <br>
-<h3>📊Real-World problems </h3>
+<h3>🌐 Real-World Problems </h3>
 <table>
   <tr>
-    <td>📉 <a href="">Predicting Electric Vehicle Adoption Rates</a></td>
-      <td>📉 <a href="">COVID-19 Impact Analysis</a></td>
-       <td>📉 <a href="">Job Market Analysis</a></td>
-      <td>📉 <a href="">E-commerce Shopping Pattern Analysis</a></td>
-       <td>📉 <a href="">Analyzing and Predicting Energy Consumption</a></td>
-    </tr>
-  </table>
+    <td>🚗 <a href="">Predicting Electric Vehicle Adoption Rates</a></td>
+    <td>🦠 <a href="">COVID-19 Impact Analysis</a></td>
+    <td>👔 <a href="">Job Market Analysis</a></td>
+    <td>🛒 <a href="">E-commerce Shopping Pattern Analysis</a></td>
+    <td>💡 <a href="">Analyzing and Predicting Energy Consumption</a></td>
+  </tr>
+</table>
+<br>
 <br>
 <div align="center">
   <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none;">
