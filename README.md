@@ -20,7 +20,7 @@
     <td><a href="https://www.datascienceportfol.io/Vey">Python Projects</a></td>
     <td><a href="https://public.tableau.com/app/profile/vey.damneun5377">Tableau Dashboards</a></td>
     <td><a href='https://www.cognitoforms.com/CodeFarms1/CONTACTME'> please ask</a></td>
-    <td><a href="https://www.cognitoforms.com/CodeFarms1/CaltechAIMachineLearning">Certificates</a></td>
+    <td><a href="[https://www.cognitoforms.com/CodeFarms1/CaltechAIMachineLearning">Certificates</a></td>
   </tr>
 </table>
 <br>
