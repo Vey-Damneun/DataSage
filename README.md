@@ -37,27 +37,22 @@
     <td><a href="https://veyvey-predict-weather.hf.space">☁️ Tomorrow's Weather Prediction</a></td>
   </tr>
 </table>
-
-<br>
-<br>
-<h2>Business
-Analytics</h2>
+<h2>📊 Business Analytics</h2>
 <table>
   <tr>
-    <th>Three Types of Analytics/th>
-  </tr>
-  <tr>
-    <td><a href="[https://veyvey-test.hf.space"](https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=OS6jxa)>Three Types of Analytics</a></td>
+    <td><a href="https://veyvey-test.hf.space">📈 Three Types of Analytics</a></td>
   </tr>
 </table>
+<br>
 
 <br>
+<br>
+
 <br>
 <div align="center">
   <a href="linkedin.com/in/vey-d-20b27a119" style="text-decoration: none;">
     <img src="./assets/Logo-Linkedin.png" alt="LinkedIn" width="80">
-  </a>
- 
+  </a> 
   
   <a href="https://github.com/Vey27" style="text-decoration: none;">
     <img src="./assets/GitHub-Logo.png" alt="GitHub" width="80">
