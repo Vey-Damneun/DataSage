@@ -42,11 +42,11 @@
 <h2>📊 Business Analytics</h2>
 <table>
   <tr>
-    <td><a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">📈 Three Types of Analytics</a></td>
+    <td>📈 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
+     <td>📉 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Data in Analytics</a></td>
   </tr>
 </table>
 <br>
-
 
 <br>
 <div align="center">
