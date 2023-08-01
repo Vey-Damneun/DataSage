@@ -40,6 +40,7 @@
 <br>
 <br>
 <h2>📊 Business Analytics</h2>
+<p>I understand the importance of maintaining privacy and data confidentiality. As such, instead of showcasing actual projects due to their sensitive nature, I will share a collection of projects, analyses, models, consultations, and recommendation reports using open source data.</p>
 <table>
   <tr>
     <td>📈 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
