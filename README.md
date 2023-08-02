@@ -45,12 +45,6 @@ Understanding the significance of privacy and data confidentiality, I cannot dis
 Throughout these projects, I utilized programming languages like R for analysis and IBM Watson for AI and machine learning tasks. Project management tools, such as Project for sprint tracking and Trello for team collaboration and project updates, were essential parts of my workflow. To gather large datasets for analysis, I leveraged Twitter for live data collection and surveyed numerous public databases. Regular monthly updates were presented to the team, and a final presentation was made to the community.
 <table>
   <tr>
-    <th>📊Three Types of Analytics</th>
-    <th>📊Data in Analytics</th>
-    <th>📊 MSBA Project</th>
-    <th>📜 Certificates</th>
-  </tr>
-  <tr>
     <td>📊 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
     <td>📊 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td> 
     <td>📊 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2Q3m9Lnh2lVDqwSJ?e=H7vXHQ">MSBA Project</a></td>
