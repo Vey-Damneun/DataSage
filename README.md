@@ -38,20 +38,23 @@
   </tr>
 </table>
 <br>
-<br>
 <h2>📚 Business Analytics</h2>
-<br><table>
+<br>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td colspan="3">Understanding the significance of privacy and data confidentiality, I cannot display actual projects due to their confidential nature. Instead, I'll share a range of projects, analyses, models, consultations, and recommendation reports, all using open-source data. The showcased MSBA project for the community involved a variety of tasks. This included producing detailed consultation reports, conducting regular updates and meetings, creating datasets, and developing a chatbot integrated with Facebook Messenger for real-time customer interaction. Moreover, I designed an interactive dashboard using Tableau and provided written recommendations to enhance company efficiency.
+    <td style="word-wrap: break-word;">
+        Understanding the significance of privacy and data confidentiality, I cannot display actual projects due to their confidential nature. Instead, I'll share a range of projects, analyses, models, consultations, and recommendation reports, all using open-source data. The showcased MSBA project for the community involved a variety of tasks. This included producing detailed consultation reports, conducting regular updates and meetings, creating datasets, and developing a chatbot integrated with Facebook Messenger for real-time customer interaction. Moreover, I designed an interactive dashboard using Tableau and provided written recommendations to enhance company efficiency.
 
-Throughout these projects, I utilized programming languages like R for analysis and IBM Watson for AI and machine learning tasks. Project management tools, such as Project for sprint tracking and Trello for team collaboration and project updates, were essential parts of my workflow. To gather large datasets for analysis, I leveraged Twitter for live data collection and surveyed numerous public databases. Regular monthly updates were presented to the team, and a final presentation was made to the community.</td>
+        Throughout these projects, I utilized programming languages like R for analysis and IBM Watson for AI and machine learning tasks. Project management tools, such as Project for sprint tracking and Trello for team collaboration and project updates, were essential parts of my workflow. To gather large datasets for analysis, I leveraged Twitter for live data collection and surveyed numerous public databases. Regular monthly updates were presented to the team, and a final presentation was made to the community.
+    </td>
   </tr>
   <tr>
-    <td>📊 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
-    <td>📉 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td> 
-    <td>🧩 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2Q3m9Lnh2lVDqwSJ?e=H7vXHQ">MSBA Project</a></td>
+    <td style="word-wrap: break-word;">📊 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
+    <td style="word-wrap: break-word;">📉 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td> 
+    <td style="word-wrap: break-word;">🧩 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2Q3m9Lnh2lVDqwSJ?e=H7vXHQ">MSBA Project</a></td>
   </tr>
 </table>
+
 <br>
 <h3>🌐 Real-World Problems </h3>
 <table>
