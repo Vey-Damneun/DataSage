@@ -39,7 +39,7 @@
 </table>
 <br>
 <h2>📚 Business Analytics</h2>
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 80%; table-layout: fixed;">
   <tr>
     <td colspan="3" style="word-wrap: break-word;">
         Understanding the significance of privacy and data confidentiality, I cannot display actual projects due to their confidential nature. Instead, I'll share a range of projects, analyses, models, consultations, and recommendation reports, all using open-source data. The showcased MSBA project for the community involved a variety of tasks. This included producing detailed consultation reports, conducting regular updates and meetings, creating datasets, and developing a chatbot integrated with Facebook Messenger for real-time customer interaction. Moreover, I designed an interactive dashboard using Tableau and provided written recommendations to enhance company efficiency.
