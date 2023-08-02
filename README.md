@@ -39,7 +39,6 @@
 </table>
 <br>
 <h2>📚 Business Analytics</h2>
-<br>
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="word-wrap: break-word;">
