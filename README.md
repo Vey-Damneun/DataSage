@@ -45,8 +45,8 @@
 <table>
   <tr>
     <td>📊 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
-    <td>📈 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td> 
-    <td>📚 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2Q3m9Lnh2lVDqwSJ?e=H7vXHQ">MSBA Project</a></td>
+     <td>💹 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td> 
+     <td><p>🔎 This poster showcases my MSBA project for the community. The project involved an array of tasks such as producing detailed consultation reports, conducting weekly updates and meetings, generating datasets, and creating a chatbot integrated with Facebook Messenger for real-time customer interaction. In addition, I designed an interactive dashboard using Tableau and provided written recommendations to enhance company efficiency.</p>📑 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2Q3m9Lnh2lVDqwSJ?e=H7vXHQ">MSBA Project</a></td>
   </tr>
 </table>
 <br>
