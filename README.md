@@ -39,14 +39,17 @@
 </table>
 <br>
 <br>
-<h2>📊 Business Analytics</h2>
+<h2>📚 Business Analytics</h2>
 <p>I understand the importance of maintaining privacy and data confidentiality. As such, instead of showcasing actual projects due to their sensitive nature, I will share a collection of projects, analyses, models, consultations, and recommendation reports using open source data.</p>
 <br>
 <table>
   <tr>
     <td>📊 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
-     <td>💹 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td> 
-     <td><p>🔎 This poster showcases my MSBA project for the community. The project involved an array of tasks such as producing detailed consultation reports, conducting weekly updates and meetings, generating datasets, and creating a chatbot integrated with Facebook Messenger for real-time customer interaction. In addition, I designed an interactive dashboard using Tableau and provided written recommendations to enhance company efficiency.</p>📑 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2Q3m9Lnh2lVDqwSJ?e=H7vXHQ">MSBA Project</a></td>
+    <td>📉 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td> 
+    <td>🧩 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2Q3m9Lnh2lVDqwSJ?e=H7vXHQ">MSBA Project</a></td>
+  </tr>
+  <tr>
+    <td colspan="3">This portfolio showcases my MSBA project for the community. The project involved an array of tasks such as producing detailed consultation reports, conducting weekly updates and meetings, generating datasets, and creating a chatbot integrated with Facebook Messenger for real-time customer interaction. In addition, I designed an interactive dashboard using Tableau and provided written recommendations to enhance company efficiency.</td>
   </tr>
 </table>
 <br>
