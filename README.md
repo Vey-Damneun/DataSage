@@ -44,14 +44,14 @@ Throughout these projects, I utilized programming languages like R for analysis 
   </tr>
 </table>
 <br>
-<h3>🌐 Real-World Problems </h3>
+<h3>🌐 Youtube| Vey Vista</h3>
 <table>
   <tr>
-    <td>🚗 <a href="">Predicting Electric Vehicle Adoption Rates</a></td>
-    <td>🦠 <a href="">COVID-19 Impact Analysis</a></td>
-    <td>👔 <a href="">Job Market Analysis</a></td>
-    <td>🛒 <a href="">E-commerce Shopping Pattern Analysis</a></td>
-    <td>💡 <a href="">Analyzing and Predicting Energy Consumption</a></td>
+    <td>🎤 <a href="">Interviews</a></td>       
+    <td>🔧 <a href="">How to</a></td> 
+    <td>👔 <a href="https://www.youtube.com/channel/UC-ZUgP20fT6jkPL1MV6D6Ew">Nature Sounds</a></td>
+    <td>🎉 <a href="">Events</a></td>         
+    <td>🍽️ <a href="">Food and Travel</a></td> 
   </tr>
 </table>
 <br>
