@@ -46,12 +46,8 @@ Throughout these projects, I utilized programming languages like R for analysis 
 <br>
 <h3>🌐 Youtube Channel | @Vey Vista</h3>
 <table>
-  <tr>
-    <td>🎤 <a href="">Interviews</a></td>       
-    <td>🔧 <a href="">How to</a></td> 
-     <td>👔 <a href="https://youtu.be/Lvh88nVXWCk">Nature Sounds</a></td>
-    <td>🎉 <a href="">Events</a></td>         
-    <td>🍽️ <a href="">Food and Travel</a></td> 
+  <tr>   
+    <td>🎉 <a href="https://www.youtube.com/channel/UC-ZUgP20fT6jkPL1MV6D6Ew">Vey Vista</a></td>         
   </tr>
 </table>
 <br>
