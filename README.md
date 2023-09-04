@@ -44,11 +44,13 @@ Throughout these projects, I utilized programming languages like R for analysis 
   </tr>
 </table>
 <br>
-<h3>🌐 Youtube Channel | @veyvista</h3>
+<h3>🌐 Youtube Channel | </h3>
 <table>
-  <tr>   
-    <td>🎉 <a href="https://www.youtube.com/channel/UC-ZUgP20fT6jkPL1MV6D6Ew">Vey Vista</a></td>         
-  </tr>
+  <tr>
+    <td>🎉🎥 <a href="https://www.youtube.com/channel/UC-ZUgP20fT6jkPL1MV6D6Ew">Vey Vista</a> 🌟👍</td>
+    <td>🔥💡 <a href="https://www.youtube.com/@VeysAI-RealNews/about">Part-Time Hustle Passion</a> 🚀💖</td>
+</tr>
+
 </table>
 <br>
 <br>
