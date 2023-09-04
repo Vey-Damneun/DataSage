@@ -46,9 +46,9 @@ Throughout these projects, I utilized programming languages like R for analysis 
 <br>
 <h3>🌐🎬 Youtube Channels | 💥 Part-Time Fun 🌟</h3>
 <table>
-  <tr>
+ <tr>
     <td>🎉🎥 <a href="https://www.youtube.com/channel/UC-ZUgP20fT6jkPL1MV6D6Ew">Vey Vista</a> 🌟👍</td>
-    <td>🔥💡 <a href="https://www.youtube.com/@TechPulse_AI/about</a> Tech Pulse AI🚀💖</td>
+    <td>🔥💡 <a href="https://www.youtube.com/@TechPulse_AI/about">Tech Pulse AI</a> 🚀💖</td>
   </tr>
 </table>
 <br>
