@@ -34,15 +34,18 @@
 <br>
 <h2>📚 Business Analytics</h2>
 <table>
-<p>Understanding the significance of privacy and data confidentiality, I cannot display actual projects due to their confidential nature. Instead, I'll share a range of projects, analyses, models, consultations, and recommendation reports, all using open-source data. The showcased MSBA project for the community involved a variety of tasks. This included producing detailed consultation reports, conducting regular updates and meetings, creating datasets, and developing a chatbot integrated with Facebook Messenger for real-time customer interaction. Moreover, I designed an interactive dashboard using Tableau and provided written recommendations to enhance company efficiency.
+  <p>Due to the confidential nature of my work, I'm unable to display actual projects. However, I can share a diverse array of projects that I've undertaken, all utilizing open-source data. One notable community-focused MSBA project involved a multifaceted approach, including generating comprehensive consultation reports, conducting frequent team updates and meetings, creating datasets, and even developing a real-time customer chatbot integrated with Facebook Messenger. To improve organizational efficiency, I also designed an interactive dashboard using Tableau and provided written strategic recommendations.</p>
 
-Throughout these projects, I utilized programming languages like R for analysis and IBM Watson for AI and machine learning tasks. Project management tools, such as Project for sprint tracking and Trello for team collaboration and project updates, were essential parts of my workflow. To gather large datasets for analysis, I leveraged Twitter for live data collection and surveyed numerous public databases. Regular monthly updates were presented to the team, and a final presentation was made to the community.</p>
+  <p>Throughout these projects, I employed programming languages such as R for analytics and IBM Watson for AI and machine learning functions. For project management, I relied on Microsoft Project for sprint tracking and Trello for team collaboration and real-time updates. To obtain expansive datasets, I utilized Twitter for live data collection and scoured various public databases. Monthly updates were consistently shared with the team, culminating in a final presentation to the community.</p>
+
   <tr>
     <td>📊 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2HgYAc-73MyLy27k?e=ZfAdRD">Three Types of Analytics</a></td>
-    <td>📈 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td> 
+    <td>📈 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2QwE0MZEHu_d0oup?e=ArcHbY">Data in Analytics</a></td>
     <td>🧪 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2Q3m9Lnh2lVDqwSJ?e=H7vXHQ">MSBA Project</a></td>
+    <td>🧪 <a href="https://1drv.ms/i/s!AoRrTjl22F1v2g_MfVBtW99mwMzt?e=8AzUE3">Project Planning</a></td>
   </tr>
 </table>
+
 <br>
 <h3>🌐🎬 Youtube Channels | 💥 Part-Time Fun 🌟</h3>
 <table>
