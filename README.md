@@ -1,5 +1,5 @@
 ## Vey Damneun
-# Data Science & Machine Learning 📊🤖
+# Data Science & Machine Learning 🤖
 [Contact Me](https://www.cognitoforms.com/CodeFarms1/CONTACTME) 💬
 
 <div style="position: relative;">
@@ -47,11 +47,11 @@
 </table>
 
 <br>
-<h3>🌐🎬 Youtube Channels | 💥 Part-Time Fun 🌟</h3>
+<h3> Youtube Channels | Part-Time Fun </h3>
 <table>
  <tr>
-    <td>🎉🎥 <a href="https://www.youtube.com/channel/UC-ZUgP20fT6jkPL1MV6D6Ew">Vey Vista</a> 🌟👍</td>
-    <td>🔥💡 <a href="https://www.youtube.com/@TechPulse_AI/about">Tech Pulse AI</a> 🚀💖</td>
+    <td>🎥 <a href="https://www.youtube.com/channel/UC-ZUgP20fT6jkPL1MV6D6Ew">Vey Vista</a> 🌟</td>
+    <td>💡 <a href="https://www.youtube.com/@TechPulse_AI/about">Tech Pulse AI</a> 🚀</td>
   </tr>
 </table>
 <br>
