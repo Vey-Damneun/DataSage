@@ -51,7 +51,6 @@
 <table>
 <tr>
     <td>🎥 <a href="https://www.youtube.com/channel/UC-ZUgP20fT6jkPL1MV6D6Ew">Vey Vista</a> 🌟</td>
-    <td>💡 <a href="https://www.youtube.com/@TechPulse_AI/about">Tech Pulse AI</a> 🚀</td>
     <td>🎯 <a href="https://www.youtube.com/@FocusPurely">Focus Purely, LLC</a> 🌈</td>
 
 </tr>
